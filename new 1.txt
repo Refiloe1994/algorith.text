@@ -1,0 +1,5 @@
+# Ask the user to input their first name
+user_input = input("Please enter your first name: ")
+
+# Print the name
+print("Hello, " + user_name )

@@ -1,0 +1,7 @@
+INPUT age
+IF age >= 18 THEN
+    OUTPUT "You are old enough"
+ELSE IF age >= 16 THEN
+    OUTPUT "Almost there"
+END IF age<16
+	OUTPUT "You're just too young"
